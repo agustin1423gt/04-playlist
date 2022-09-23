@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: azure;
+}
+table th{
+    background-color: #171010;
+}
+table{
+    background-color: #362222;
+    width: 100%;
+    border: 1px solid #423F3E;
+    border-collapse: collapse;
+}
+table td{
+  border:4px solid black;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+table tr{text-align: center;}
